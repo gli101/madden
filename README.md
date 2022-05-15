@@ -21,7 +21,7 @@ In principle, better players generally cost more, so teams that want good player
 Instead of focusing on what would make an amazing team, lets focus on the players. We will be taking a look at the players in the NFL (from the Madden NFL 21 video game) compare to eachother and to the top 200 players. We will also look at what attributes they possess, and how those attributes contribute to their overall player rating (a measure of hey impactful a player is).
 
 ## Contents 
-(full Jupyter Notebook can be found in repo under the name madden_nfl_22.ipynb)
+Full Jupyter Notebook can be found in repo under the name madden_nfl_22.ipynb
 - Data Collection
     - Source
 - Data Management
