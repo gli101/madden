@@ -19,3 +19,38 @@ The NFL is a professional American football league that consists of 32 teams, di
 In principle, better players generally cost more, so teams that want good players need to spend more money. Teams that spend the most, theoretically, should win the most.
 
 Instead of focusing on what would make an amazing team, lets focus on the players. We will be taking a look at the players in the NFL (from the Madden NFL 21 video game) compare to eachother and to the top 200 players. We will also look at what attributes they possess, and how those attributes contribute to their overall player rating (a measure of hey impactful a player is).
+
+## Contents (full Jupyter Notebook can be found in repo under the name madden_nfl_22.ipynb)
+- Data Collection
+    - Source
+- Data Management
+    - Loading the Data
+    - Reformatting Data
+    - Overview
+- Data Analysis
+    - Top 200 Players
+    - A Look at the Ratings
+    - Next Steps
+    - Offensive Line
+    - Wide Receivers and Tight Ends
+    - Quarterbacks
+    - Half Backs and Fullbacks
+    - Defensive Team
+    - Special Team
+- Hypothesis Testing
+    - Null Hypothesis
+    - Testing
+    - Ordinary Least Squares Regression (OLS)
+    - Variables
+    - OLS for the Offensive Line
+    - OLS for Wide Receivers and Tight Ends
+    - OLS for the Quarterback
+    - OLS for Half Backs and Fullbacks
+    - OLS for the Defensive Team
+    - OLS for the Special Team
+    - Big Thanks
+- Insights
+    - Quarterback and Special Team
+    - Offensive Line + Halfbacks and Fullbacks
+    - Wide Receivers and Tight Ends + Defensive Team
+    - Takeaways
