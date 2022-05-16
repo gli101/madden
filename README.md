@@ -29,9 +29,10 @@ Full Jupyter Notebook can be found in repo under the name madden_nfl_22.ipynb
     - Reformatting Data
     - Overview
 - Data Analysis
-    - Top 200 Players
-    - A Look at the Ratings
+    - Player Distribution
+    - Rating Distributions
     - Next Steps
+    - Preliminary Analysis
     - Offensive Line
     - Wide Receivers and Tight Ends
     - Quarterbacks
